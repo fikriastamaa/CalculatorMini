@@ -56,6 +56,7 @@ class DataKelompokPage extends StatelessWidget {
                           Divider(thickness: 2, color: Color(0xFF5A1E6F)),
                           SizedBox(height: 8),
                           _buildMemberTile('Muhamad Rafif Rezha Firmansyah', '123220041'),
+                          _buildMemberTile('Dhiya Aulya Achsa Fitrian', '123220055'),
                           _buildMemberTile('Tadeus Vito Gavra Sitanggang', '123220105'),
                           _buildMemberTile('Fikri Astama Putra', '123220108'),
                           SizedBox(height: 20),
